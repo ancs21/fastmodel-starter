@@ -1,4 +1,8 @@
 uvicorn==0.12.1
 fastapi==0.61.1
+onnxruntime==1.5.2
+requests==2.24.0
+Pillow==8.0.0
+pytest==6.1.1
 pytest-asyncio==0.14.0
 httpx==0.16.1

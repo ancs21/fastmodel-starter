@@ -1,0 +1,1 @@
+GET http://localhost:8000/predict?image_url=https://raw.githubusercontent.com/onnx/onnx-docker/master/onnx-ecosystem/inference_demos/images/dog.jpg&access_token=1234567asdfgh
